@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-label="Emplacement réservé au portrait de Hamed KOUSSOUBÉ">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef6ff"/>
+      <stop offset="1" stop-color="#bed8ff"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#155eef"/>
+      <stop offset="1" stop-color="#071b4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="900" fill="url(#bg)"/>
+  <circle cx="360" cy="285" r="145" fill="#d6e5fb"/>
+  <path d="M205 780c10-190 72-300 155-300s145 110 155 300" fill="url(#shirt)"/>
+  <circle cx="360" cy="285" r="92" fill="#9fbbe5"/>
+  <text x="360" y="845" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#071b4a">HK</text>
+</svg>
